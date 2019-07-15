@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" class="app">
         <VueDropdown label="Menu">
           <VueDropdownButton icon-left="edit">Edit</VueDropdownButton>
           <VueDropdownButton icon-left="delete">Delete</VueDropdownButton>
@@ -19,5 +19,7 @@
 
 </style>
 <style>
-  /* CSS */
+  .app{
+    position: relative;
+  }
 </style>
