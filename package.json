@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@vue/ui": "^0.10.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vue": "^2.5.16",
